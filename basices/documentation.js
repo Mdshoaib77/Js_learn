@@ -1,0 +1,1 @@
+// for Js all documentation Tc39 and MDN 
